@@ -1,7 +1,11 @@
 # Modular Constrictions and Asymptotic Density of Goldbach Partitions in Fibonacci Numbers
 
+# Modular Constrictions and Asymptotic Density of Goldbach Partitions in Fibonacci Numbers
+
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Status: Pre-print](https://img.shields.io/badge/Status-Pre--print-blue.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18912503.svg)](https://doi.org/10.5281/zenodo.SEU_NUMERO_AQUI)
+
 
 ## Abstract
 This repository contains the formal research article investigating the intersection of the Fibonacci sequence and Additive Number Theory. Specifically, it explores the subset of even Fibonacci numbers ($F_{3k}$) under the framework of the Goldbach Conjecture ($2N = p_1 + p_2$). 
