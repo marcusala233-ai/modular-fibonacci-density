@@ -42,4 +42,4 @@ Under this license, visitors are free to download and share the research paper, 
 ## Author
 **Marcus Ala Pedreira Roriz**
 *Instituto de Matemática e Estatística (IME) - Universidade Federal de Goiás (UFG)*
-Contact: [marcusala233@discente.ufg.br](mailto:marcusala233@discente.ufg.br)
+Contact: [marcusala@discente.ufg.br](mailto:marcusala233@discente.ufg.br)
